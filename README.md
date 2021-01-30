@@ -15,11 +15,14 @@ I am from _Turkey_ and I live in ***Belgium***.
 
 
 
-* Things I like to do
+* Things I like (to do)
   * :speedboat:
   * :rocket:
   * :sailboat:
   * :tent:
+  * :coffee:
+  * :pizza:
+  * ...
 
 
 <!--
