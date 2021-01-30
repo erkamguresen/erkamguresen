@@ -7,10 +7,19 @@ I am from _Turkey_ and I live in ***Belgium***.
 - 🔭 I’m currently working on HYF assignments
 - 🌱 I’m currently learning Javascript
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erkamguresen&layout=compact)](https://github.com/erkamguresen/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erkamguresen&count_private=true)](https://github.com/erkamguresen/github-readme-stats)
+
+
+[![Erkam's GitHub stats](https://github-readme-stats.vercel.app/api?username=erkamguresen&count_private=true)](https://github.com/erkamguresen/github-readme-stats)
+
+
 
 * Things I like to do
+  * :speedboat:
   * :rocket:
+  * :sailboat:
+  * :tent:
 
 
 <!--
