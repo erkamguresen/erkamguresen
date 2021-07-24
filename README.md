@@ -1,26 +1,11 @@
 # Hi there 👋
 
-## I am Erkam.
-
-I am from _Turkey_ and I live in **_Belgium_**.
-
-- 🔭 I’m currently working on HYF assignments
-- 🌱 I’m currently learning Javascript
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erkamguresen&count_private=true)](https://github.com/erkamguresen/github-readme-stats)
 
 [![Erkam's GitHub stats](https://github-readme-stats.vercel.app/api?username=erkamguresen&count_private=true)](https://github.com/erkamguresen/github-readme-stats)
 
-- Things I like (to do)
-  - :speedboat:
-  - :rocket:
-  - :sailboat:
-  - :tent:
-  - :coffee:
-  - :pizza:
-  - ...
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Java" height="36px" src="images/java2.png">
 
