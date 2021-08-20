@@ -4,10 +4,9 @@
 
 [![Erkam's GitHub stats](https://github-readme-stats.vercel.app/api?username=erkamguresen&count_private=true)](https://github.com/erkamguresen/github-readme-stats)
 
-
+<!-- https://github.com/jalbertsr/logo-badge-images -->
 ## Languages and Tools:
 
-<img align="left" alt="Java" height="36px" src="images/java2.png">
 
 <img align="left" alt="Visual Studio Code" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -58,7 +57,7 @@
 
 <!-- <img align="left" height="36px" alt="tensorflow" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" > -->
 
-<img align="left" height="36px" alt="android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" >
+
 
 <img align="left" height="36px" alt="bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" > 
 
@@ -73,6 +72,15 @@
 <img align="left" height="36px" alt="json" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
 
 <!-- <img align="left" height="36px" alt="jupyter-notebook" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" > -->
+
+<img align="left" height="36px" alt="pug" src="https://github.com/Iggy-Codes/logo-images/blob/master/logos/pug.png" > 
+
+<img align="left" height="36px" alt="expressjs" src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png" > 
+
+
+<img align="left" alt="Java" height="36px" src="images/java2.png">
+<img align="left" height="36px" alt="android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" >
+
 
 <!--
 **erkamguresen/erkamguresen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
