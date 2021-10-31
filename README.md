@@ -1,8 +1,9 @@
 # Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erkamguresen&count_private=true)](https://github.com/erkamguresen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erkamguresen&count_private=true&langs_count=8)](https://github.com/erkamguresen/github-readme-stats)
 
 [![Erkam's GitHub stats](https://github-readme-stats.vercel.app/api?username=erkamguresen&count_private=true)](https://github.com/erkamguresen/github-readme-stats)
+
 
 <!-- https://github.com/jalbertsr/logo-badge-images -->
 ## Languages and Tools:
